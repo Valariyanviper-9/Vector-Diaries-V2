@@ -63,7 +63,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Our Collection</h2>
-            <p className="text-gray-600 max-w-2xl mx-auto">Browse our curated selection of unique art styles.</p>
+            <p className="text-gray-600 max-w-2xl mx-auto">Explore our curated selection of unique art styles. Choose your favorite aesthetic, and commission our artists to bring your vision to life with a bespoke, hand-drawn masterpiece.</p>
           </div>
 
           {/* Category Filter */}
